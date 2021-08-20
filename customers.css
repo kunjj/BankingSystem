@@ -1,0 +1,73 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    /* background-image: url("https://st3.depositphotos.com/1747568/17270/v/1600/depositphotos_172706198-stock-illustration-abstract-mosaic-background-triangle-geometric.jpghttps://previews.123rf.com/images/timurock/timurock1507/timurock150700003/42039566-vector-illustration-of-blue-abstract-geometric-background.jpg"); */
+    background-image: url("bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f57c00;
+    background-blend-mode: multiply;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+
+.bg-light{
+    background-color: tomato;
+}
+
+.navbar-brand{
+    font-size: 1.5rem;
+
+    text-align: center;
+    margin-left: 26rem;
+}
+
+.nav-link{
+    color: #373e47!important;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+
+
+.my-info{
+    padding: 2rem 5rem;
+    color: rgba(6, 67, 179, 0.815);
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color: rgb(83, 223, 78)!important;
+    color: #fff!important;
+    margin-left: 5px; 
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(6, 29, 8)!important;
+}
+.ab
+{
+    background-color: white;
+    border-radius: 50px;
+    margin-left:350px;
+    width:500px;
+    text-align: center;
+}
+.table-ligh
+{
+    background-color: wheat;
+}
+.table-ligh:hover
+{
+    background-color: #c1e1ff;
+}
+.table-inf
+{
+    background-color: #f8eded;
+}
+.table-inf:hover
+{
+    background-color: #c1e1ff;
+}
